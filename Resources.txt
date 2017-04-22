@@ -3,6 +3,7 @@ https://github.com/Hack-with-Github/Free-Security-eBooks
 https://www.packtpub.com/packt/offers/free-learning
 https://github.com/tahmid-choyon
 https://github.com/Hack-with-Github/Free-Security-eBooks-from-PacktPub
+https://github.com/tahmid-choyon/free-tech-ebooks-from-packtpub
 https://www.elearnsecurity.com/course/penetration_testing/
 https://www.youtube.com/watch?v=-4_on9zj-zs     Hacking Passports and Credit Cards with Major Malfunction - Motherboard
 
